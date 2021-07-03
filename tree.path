@@ -1,0 +1,32 @@
+/////////////////truth system////////////
+do 20 i=1 ,n
+    b(i,1)=0
+    do 10 j=1,m 
+          a(i,j)=a(i,j)+b(i,j)*p (i,j)
+   else:
+            l1 = "Link p100:"http//:www.google.com 
+[6-9 do p100
+	((sheduler *process search image_googlelogo_color_160x56dp)
+	  (1 genrate 1)
+	  (2 search id)
+<(setn https:www.google.com]
+(use-colloctive-method-collect-data-sum
+"(=(t42(n\q (3bits) (not (occurs-in?' 000
+			         001
+			         002
+rule ((show contritidtion)
+       (not?p)
+       ?p)
+(rasset! contradition ))
+ (setq *dat create ai "search.api")
+	<setn asumpotion-0 (creates-node) "0" assumptions p)
+	<setn asumpotion-0 (creates-node) "1" assumptions p)
+   	<setn asumpotion-0 (creates-node) "2" assumptions p)
+> enable-tree assumptions-0
+> enable-tree assumptions-1
+> enable-tree assumptions-2
+/////////////artifishal intellgence,simulation and modeling///////
+///// lawrence e widman//// 
+///// kenneth a loparo////
+/////norman r nielson /////
+(tm) earthatnasa

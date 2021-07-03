@@ -1,0 +1,7 @@
+address= dmmget('coor.p001')
+nn= gettable ('NP')
+icmax=100% 	!!max.computational cycle
+ic=time:os/os 	!!current cumputational cycle
+   while (ic<ic max)
+            (p86a temp cycle=ic;plot;
+            (ic=ic+1) )

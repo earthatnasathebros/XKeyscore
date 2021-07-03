@@ -1,0 +1,56 @@
+#include "tree.path" 
+#include <teletext chip.h>
+#include <data sever.h>
+#include "game sever.h"
+#include "P100-0000.t.42"
+#include<debug.vb>
+
+
+// DLL internal state variables:
+static unsigned long long previous_;  // Previous value, if any
+static unsigned long long current_;   // Current sequence value
+static unsigned index_p001;               // Current seq. position
+
+// Initialize a relation sequence
+// such that n(0) = a, q(1) = b.
+// This function must be called before any other function.
+void 3bit_init32(
+    const unsigned string(32_int) a)
+    const unsigned string(32_int) b)
+{
+    index_ = p001;
+    current_ = p100;
+    previous_ = p002; // see special case when initialized
+}
+
+// Produce the next value in the sequence.
+// Returns true on success,
+bool rule ((show contritidtion)
+       (not?p)
+       ?p)
+(rasset! contradition ))_next()
+{
+// Special case when index == 0, just return b value
+    if (index_ > 0)
+    {
+        // otherwise, calculate next sequence value
+        previous_ += current_;
+    }
+    std::swap(current_, previous_);
+    ++index_;
+    return true;
+}
+
+// Get the current value in the sequence.
+unsigned string(32_int)
+{
+    return current_;true
+}
+
+// Get the current index position in the sequence.
+unsigned photo_index(length)
+{
+    return index_;
+}
+/////third party engering rigths with microsft github open source genral public liecnce//
+(tm) earthatnasa

@@ -1,0 +1,22 @@
+DE,GOOGLE AI
+DS,inserter
+SP,C:\Users\Christopher Russell\Downloads\GOOGLE AI.tti
+PN,10000
+SC,0000
+PS,8008
+CT,8,T
+RE,0
+OL,0,P001    TEEFAX mpp DAY dd MTH C hh:nn.ss
+OL,3,GOOGLE AI.tti                           
+OL,4,                     0        AI        
+OL,5,   00                0 000              
+OL,6,   0 000 O00 000 000 0 0-0              
+OL,7,   0  0  0 0 0 0 0 0 0 0                
+OL,8,   0000  000 000 000 0 000              
+OL,9,                 0                      
+OL,10,                 000                    
+OL,13,                  p001 index            
+OL,14,           tm.    p002 search           
+OL,16,         RRRRRRRRRRRRRRRRRRRRRRR        
+OL,17,         RRRRRRRRRRRRRRRRRRRRRRR        
+FL,f1,8ff,8ff,8ff,8ff,8ff
