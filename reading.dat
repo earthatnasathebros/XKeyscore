@@ -1,0 +1,32 @@
+Dat('/data', function (err, dat) {
+  // use dat
+:char unicode 
+read:| ai"xmla"
+'00001'
+'00002'
+'00003'
+unicode 
+read"xmla"
+:| ai
+  def __init__(self, learning_rate, weight_decay):
+    self.learning_rate = learning_rate
+    self.weight_decay = weight_decay
+    self.state = None
+
+  def init(self, params):
+
+    return None  def __init__(self, learning_rate, weight_decay):
+    self.learning_rate = learning_rate
+    self.weight_decay = weight_decay
+    self.state = None
+
+  def init(self, params):
+  dataset = dataset.filter(filter_fn)
+  dataset = dataset.shuffle(buffer_size=10000)
+  dataset = dataset.batch(batch_size)
+  dataset = dataset.repeat()
+  dataset = iter(dataset)
+  return dataset
+
+channle.style= myrobot.py
+frame.node=path_to:google.var Dat = require('dat')
